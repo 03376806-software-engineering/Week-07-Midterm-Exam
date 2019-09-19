@@ -17,7 +17,7 @@
 1.1 https://github.com/03376806-software-engineering/Week-01-Software-Engineering
 2. เกี่ยวกับกระบวนการพัฒนาซอฟต์แวร์แบบต่าง ๆ  
 2.1 https://github.com/03376806-software-engineering/Week-02-Software-Processes
-3. การใช้วิธีการพัฒนาแบบ agile development 
+3. การใช้วิธีการพัฒนาแบบ agile development  
 3.1 https://github.com/03376806-software-engineering/Week-03-Agile-software-development
 4. เลือกลูกทีมมา 3 คน ประเมินความเสี่ยง และความสำเร็จในการพัฒนาซอฟต์แวร์  
 4.1 https://github.com/03376806-software-engineering/Week-04-Project-management
