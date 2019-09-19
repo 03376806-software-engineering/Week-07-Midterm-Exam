@@ -12,9 +12,13 @@
 
 ### แนวข้อสอบ
 
-1. มีประโยคหรือคำกล่าวลอยๆ มาให้ ให้นักศึกษาอภิปรายหรือวิจารณ์  ให้ความเห็นประกอบ
-2. เกี่ยวกับกระบวนการพัฒนาซอฟต์แวร์แบบต่าง ๆ 
+1. มีประโยคหรือคำกล่าวลอยๆ มาให้ ให้นักศึกษาอภิปรายหรือวิจารณ์  ให้ความเห็นประกอบ  
+1.1 อ่าน https://github.com/03376806-software-engineering/Week-01-Software-Engineering
+2. เกี่ยวกับกระบวนการพัฒนาซอฟต์แวร์แบบต่าง ๆ  
+2.1 อ่าน https://github.com/03376806-software-engineering/Week-02-Software-Processes
 3. การใช้วิธีการพัฒนาแบบ agile development 
-4. เลือกลูกทีมมา 3 คน ประเมินความเสี่ยง และความสำเร็จในการพัฒนาซอฟต์แวร์
-5. วิธีการรับมือกับการเปลี่ยนแปลงความต้องการจากลูกค้า
-
+3.1 อ่าน https://github.com/03376806-software-engineering/Week-03-Agile-software-development
+4. เลือกลูกทีมมา 3 คน ประเมินความเสี่ยง และความสำเร็จในการพัฒนาซอฟต์แวร์  
+4.1 อ่าน https://github.com/03376806-software-engineering/Week-04-Project-management
+5. วิธีการรับมือกับการเปลี่ยนแปลงความต้องการจากลูกค้า  
+5.1 อ่าน https://github.com/03376806-software-engineering/Week-05-Requirement-Engineering
